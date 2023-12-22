@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.test{
+    width: 100%;
+    height: 200px;
+}
+h1{
+    font-size: 150px;
+    font-family: arial;
+    text-align: center;
+    color: rgb(85, 42, 0)
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    background-color:#662500;
+    height: 10px;
+    width: 1000px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: none;
+    
+}
+body{
+    padding-bottom: 40px;
+}
+.container{
+    width:600px;
+    height:20px;
+    position: relative;
+  }
+p{
+    position: absolute;
+    top:0;
+    left:0;
+    transform: translate(-6%, -805%);
+    font-size:30px;
+    color: rgb(0, 0, 0);
+    padding:0;
+    margin:0;
+  }
